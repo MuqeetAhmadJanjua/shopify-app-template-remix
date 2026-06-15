@@ -6,8 +6,8 @@
 api_version = "2025-07"
 
 [[extensions]]
-name = "durable-checkout-ui-data"
-handle = "durable-checkout-ui-data"
+name = "durable-checkout-footer"
+handle = "durable-checkout-footer"
 uid = "980ee00d-6561-c6bc-0244-aed432328dd505d20197"
 type = "ui_extension"
 
