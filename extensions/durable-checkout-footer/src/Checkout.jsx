@@ -13,8 +13,7 @@ function Extension() {
   return (
     <BlockStack>
       <Text appearance="subdued">
-        By placing an order, you acknowledge reading and agreeing to our terms
-        and conditions
+        By placing this order you are acknowledging that you have read and agree to our terms and conditions.
       </Text>
     </BlockStack>
   );
